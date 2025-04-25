@@ -9,8 +9,6 @@ TeraTube est un lecteur vidéo web moderne, inspiré de YouTube, conçu pour êt
 
 - Affichage du temps écoulé et temps total
 
-- Mode sombre / clair
-
-- Intégration simple via une balise ou une API JavaScript
+- Intégration simple via npm
 
 - 100% open source
