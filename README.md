@@ -13,6 +13,10 @@ TeraTube est un lecteur vidéo web moderne, inspiré de YouTube, conçu pour êt
 
 - 100% open source
 
-Voici un aperçu de l'interface utilisateur de TeraTubev1 sur 1440px :
+## Voici un aperçu de l'interface utilisateur de TeraTubev1 sur 1440px :
 
 ![TeraTube Design Preview](./public/Design/Desktop1440px.png)
+
+### Le lien du figma (Pour les designer qui veulent collaborer)
+[Figma](https://www.figma.com/design/MNI1AAMLsL8fTSbjynZDvp/TeraTube?node-id=0-1&t=ACXbIle2teQkj9Rg-1)
+
